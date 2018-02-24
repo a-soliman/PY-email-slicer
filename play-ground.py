@@ -20,3 +20,7 @@ print(space)
 print(word[7::2])
 print(space)
 print(word[:6])
+
+# REVERSING STRING 
+print(word[::-1])
+print(word[5:-1:-1])
